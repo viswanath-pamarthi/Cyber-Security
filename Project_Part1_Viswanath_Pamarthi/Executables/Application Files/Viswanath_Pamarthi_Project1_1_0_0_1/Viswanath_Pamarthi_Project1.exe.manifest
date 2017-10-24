@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Viswanath_Pamarthi_Project1.exe" version="1.0.0.1" publicKeyToken="9bb8202dd3b0f48f" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Viswanath_Pamarthi_Project1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Viswanath_Pamarthi_Project1.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Viswanath_Pamarthi_Project1.exe" size="14776">
+      <assemblyIdentity name="Viswanath_Pamarthi_Project1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uv1Jgy5OeBlx6vXcpgErk/y/3XH44sUIVVP7tUcqyHg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Viswanath_Pamarthi_Project1.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CREATIVE\Vissu" issuerKeyHash="f5edbf3d8399056b6a226a7988a33c663d11ee98" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>6WlQguFwInicH3BBuAhlZqPTSHKOHy0gjg77HXrHy4Y=</DigestValue></Reference></SignedInfo><SignatureValue>pb5U80RgfMMJkOK1pez6VBYuRmkeqE6S/LqqDsRQAHwUUYnQ4zFHuXmZcqyU1sFRZR11nza9krhLEra9VDJ2h60FbpAKCCmI/dXoJ+4JR1Fxaegus6h/Asw5IDBDLKglJeFHc5BJ/2gg3uvcCGPZrqqj+FEwETlQIwGLBjhBJkY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1eDDD7RAAiSqEleJA1pLt7GDYYrwpo2pgeZz/J7IpMXm7B6MhaFj3PtqdtmFTZ3RLYfg1iDnQOxFqNJLExVJdOFrIjuB5V2Mg3FTjsAkrWbKER1yNdb1MKyOvPYJ7laQ7vcKCrFNrhMJTl1VMOVlbGIWJpyOAjEyzLHFszzrNVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="86cbc77a1dfb0e8e202d1f8e7248d3a3666508b841701f9c782270e1825069e9" Description="" Url=""><as:assemblyIdentity name="Viswanath_Pamarthi_Project1.exe" version="1.0.0.1" publicKeyToken="9bb8202dd3b0f48f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CREATIVE\Vissu</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>P7XaxkTpkBOqPFOwIBAD++kqiT8NxlZUoIVA6W+QV3c=</DigestValue></Reference></SignedInfo><SignatureValue>VfDDXQXqNj0MULgCp3nHuJyoZpvjXFGvhkzGI4a3TEkw3FhxPJbf74m5QLhq4fdreGQJAcvJnimRlB3EZ1QqhtJ0VIBZBGSLY7E+SuY4VDrbJmvoSW1k8sRYOqWFyUoW+MGSt3P+Bu6xS9BE+0/b8w3B6Fn+sbqY8QSmySb+Azc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1eDDD7RAAiSqEleJA1pLt7GDYYrwpo2pgeZz/J7IpMXm7B6MhaFj3PtqdtmFTZ3RLYfg1iDnQOxFqNJLExVJdOFrIjuB5V2Mg3FTjsAkrWbKER1yNdb1MKyOvPYJ7laQ7vcKCrFNrhMJTl1VMOVlbGIWJpyOAjEyzLHFszzrNVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQGBzsYFSIOqJPeOLwTbXvnTANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAQwBSAEUAQQBUAEkAVgBFAFwAVgBpAHMAcwB1MB4XDTE3MDcyMDE2MzYxMloXDTE4MDcyMDIyMzYxMlowJzElMCMGA1UEAx4cAEMAUgBFAEEAVABJAFYARQBcAFYAaQBzAHMAdTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1eDDD7RAAiSqEleJA1pLt7GDYYrwpo2pgeZz/J7IpMXm7B6MhaFj3PtqdtmFTZ3RLYfg1iDnQOxFqNJLExVJdOFrIjuB5V2Mg3FTjsAkrWbKER1yNdb1MKyOvPYJ7laQ7vcKCrFNrhMJTl1VMOVlbGIWJpyOAjEyzLHFszzrNVECAwEAATANBgkqhkiG9w0BAQsFAAOBgQCWg+SJt7uZ0BhytPM8IeGRinb5hGD93Duk71IxnkG1HJm+BzkqtKR88FOLDclCQl2umhhvTwj4MMmVGKO/ot/Ppu5oeYeyINW+b79aDyg6G7HH/oJ03wl4zVi75ugK7XjOT3O8cmVvAiLJAVQ+tmetSg/r9K+iAvfz3alumDpLnA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

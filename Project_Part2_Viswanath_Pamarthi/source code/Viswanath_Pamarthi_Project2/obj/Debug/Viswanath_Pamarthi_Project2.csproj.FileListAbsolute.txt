@@ -1,0 +1,9 @@
+c:\users\vissu\documents\visual studio 2015\Projects\Viswanath_Pamarthi_Project2\Viswanath_Pamarthi_Project2\bin\Debug\Viswanath_Pamarthi_Project2.exe.config
+c:\users\vissu\documents\visual studio 2015\Projects\Viswanath_Pamarthi_Project2\Viswanath_Pamarthi_Project2\obj\Debug\Viswanath_Pamarthi_Project2.csprojResolveAssemblyReference.cache
+c:\users\vissu\documents\visual studio 2015\Projects\Viswanath_Pamarthi_Project2\Viswanath_Pamarthi_Project2\obj\Debug\Viswanath_Pamarthi_Project2.Form1.resources
+c:\users\vissu\documents\visual studio 2015\Projects\Viswanath_Pamarthi_Project2\Viswanath_Pamarthi_Project2\obj\Debug\Viswanath_Pamarthi_Project2.Properties.Resources.resources
+c:\users\vissu\documents\visual studio 2015\Projects\Viswanath_Pamarthi_Project2\Viswanath_Pamarthi_Project2\obj\Debug\Viswanath_Pamarthi_Project2.csproj.GenerateResource.Cache
+c:\users\vissu\documents\visual studio 2015\Projects\Viswanath_Pamarthi_Project2\Viswanath_Pamarthi_Project2\bin\Debug\Viswanath_Pamarthi_Project2.exe
+c:\users\vissu\documents\visual studio 2015\Projects\Viswanath_Pamarthi_Project2\Viswanath_Pamarthi_Project2\bin\Debug\Viswanath_Pamarthi_Project2.pdb
+c:\users\vissu\documents\visual studio 2015\Projects\Viswanath_Pamarthi_Project2\Viswanath_Pamarthi_Project2\obj\Debug\Viswanath_Pamarthi_Project2.exe
+c:\users\vissu\documents\visual studio 2015\Projects\Viswanath_Pamarthi_Project2\Viswanath_Pamarthi_Project2\obj\Debug\Viswanath_Pamarthi_Project2.pdb
